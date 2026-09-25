@@ -14,7 +14,7 @@
     />
     <script>
       try {
-        var theme = localStorage.getItem("nx-theme");
+        const theme = localStorage.getItem("nx-theme");
         document.documentElement.dataset.theme = theme === "light" ? "light" : "dark";
       } catch (error) {
         document.documentElement.dataset.theme = "dark";
