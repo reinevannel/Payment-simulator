@@ -1,6 +1,6 @@
 # 🌐 NexusPay Lab
 
-### 💳 Simulateur de paiement — React (JavaScript) • Vite • Tailwind • Zustand
+### 💳 Simulateur de paiement fictif — React (JavaScript) • Vite • Tailwind • Zustand
 
 Projet front-end développé dans le cadre du parcours **Codecademy Front-End Developer**.
 
