@@ -144,3 +144,12 @@ Aucune donnée n’est envoyée à un serveur : tout est **local** et **simulé*
 ## 📜 Licence
 
 Aucune licence ajoutée pour le moment.
+
+---
+
+## ✍️ Author
+
+🦋 **Reine Vannel Studio**  
+UX Designer & Front-End Developer  
+
+**Created with ❤️ — during my Front-End Developer courses on Codecademy.**
